@@ -20,6 +20,6 @@ Menú
 ====
 Comí pollito con arroz y ensalada
 Author
-Maria A. Molina Berbeo
+
 ------
 erikasv
