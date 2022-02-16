@@ -18,6 +18,7 @@
 
 Menú
 ====
+El almuerzo fue frijolitos con arroz, chicharrón y aguacate
 
 
 Almorcé pollo apanado y papas a la francesa
@@ -28,4 +29,9 @@ Comí pollito con arroz y ensalada
 
 Author
 ------
-erikasv, heleolaya, jaime, Camila, Maria A. Molina
+erikasv
+MaIsAp
+heleolaya
+jaime
+Camila
+Maria A. Molina
