@@ -21,4 +21,4 @@ Menú
 
 Author
 ------
-erikasv
+Jorge Amador
