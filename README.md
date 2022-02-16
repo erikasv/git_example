@@ -18,8 +18,11 @@
 
 Menú
 ====
+
+Almorcé pollo apanado y papas a la francesa
+lo mismo de ayer
 Tacos de pollo
+
 Author
-Camila
 ------
-erikasv
+erikasv, heleolaya, jaime, Camila
